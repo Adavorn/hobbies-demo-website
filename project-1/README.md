@@ -14,7 +14,7 @@ demo hobby website
 - https://github.com/Adavorn/hobbies-demo-website.git
 
 # Github Website url
-- https://adavorn.github.io/hobbies-demo-website/
+- https://adavorn.github.io/hobbies-demo-website/project-1/
 
 # Future Improvements
 - Add responsive nav menu
