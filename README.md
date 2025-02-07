@@ -11,10 +11,10 @@ demo hobby website
 - boostrap
 
 # github code repository
-- https://github.com/Adavorn/demoghwebsite2.git
+- https://github.com/Adavorn/hobbies-demo-website.git
 
 # github website url
-- https://adavorn.github.io/demoghwebsite2/
+- https://adavorn.github.io/hobbies-demo-website/
 
 # futur improvements
 - add responsive nav menu
