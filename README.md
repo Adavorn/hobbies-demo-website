@@ -1,23 +1,23 @@
-# project discription
+# Project Discription
 demo hobby website
 
-# author
+# Author
 - Jacob King
 - jacob46king@gmail.com
 
-# website technology
-- html
+# Website Technology
+- Html
 - css(must have)
 - boostrap
 
-# github code repository
+# Github Code Repository
 - https://github.com/Adavorn/hobbies-demo-website.git
 
-# github website url
+# Github Website url
 - https://adavorn.github.io/hobbies-demo-website/
 
-# future improvements
-- add responsive nav menu
-- add bs tabs
-- add bs menu icons
+# Future Improvements
+- Add responsive nav menu
+- Add bs tabs
+- Add bs menu icons
 
